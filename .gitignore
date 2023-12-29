@@ -1,0 +1,12 @@
+results/*
+archived
+custom_containers
+qsub_submissions
+test
+data/reference/*
+*.o*
+*.po*
+
+# Exclude these files from being ignored
+!results/.gitkeep
+!data/reference/.gitkeep
